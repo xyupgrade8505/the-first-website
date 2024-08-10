@@ -1,0 +1,31 @@
+* {
+    text-align: center;
+    background-color: #192844;
+}
+
+h1 {
+    color: #fffed3;
+}
+
+h2 {
+    color: #f66148;
+}
+
+a {
+    font-size: 34px;
+    color: #ffffff;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-size: larger;
+    font-family: algerian;
+    background-color: black;
+}
+
+h3,
+h4 {
+    color: #fab1af;
+}

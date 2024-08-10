@@ -1,0 +1,31 @@
+h1 {
+    color: #005477;
+
+}
+
+#h1 {
+    color: #004467;
+
+}
+
+.h1 {
+    color: #003457;
+}
+
+* {
+    text-align: center;
+    background-color: #e67451;
+}
+
+h1,
+h2,
+h3 {
+    font-size: larger;
+    font-family: algerian;
+    background-color: #fbcf67;
+}
+
+a {
+    font-size: 34px;
+    color: #000000;
+}
